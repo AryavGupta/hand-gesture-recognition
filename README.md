@@ -37,6 +37,33 @@ The primary objective of this project is to develop a machine learning model tha
 - Saved trained model using joblib library
 - Implemented real-time prediction system using cv2 for video capture
 
+### Project Structure
+hand-gesture-recognition/
+│
+├── notebooks/
+│   ├── data_preprocessing.ipynb
+│   └── model_training.ipynb
+│
+├── src/
+│   └── real_time_prediction.py
+│
+│
+├── models/
+│   └── random_forest_model.joblib
+│
+└── README.md
+
+### Setup and Usage
+
+-Clone the repository:
+Copygit clone https://github.com/your-username/hand-gesture-recognition.git
+
+-Install required dependencies:
+Copypip install -r requirements.txt
+
+-Run the Jupyter notebooks in the notebooks/ directory for data preprocessing and model training.
+-Use the src/real_time_prediction.py script for real-time hand gesture recognition.
+
 ## Future Improvements
 - Expand the dataset with more diverse hand gestures
 - Experiment with deep learning models for potentially higher accuracy
