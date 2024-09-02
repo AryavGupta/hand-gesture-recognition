@@ -47,6 +47,8 @@ hand-gesture-recognition/
 ├── src/
 │   └── real_time_prediction.py
 │
+├── data/
+│   └── hand_gestures.csv
 │
 ├── models/
 │   └── random_forest_model.joblib
