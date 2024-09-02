@@ -38,7 +38,7 @@ The primary objective of this project is to develop a machine learning model tha
 - Implemented real-time prediction system using cv2 for video capture
 
 
-#### Setup and Usage
+## Setup and Usage
 
 - Clone the repository:
   Copygit clone https://github.com/your-username/hand-gesture-recognition.git
