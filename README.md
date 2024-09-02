@@ -55,14 +55,14 @@ hand-gesture-recognition/
 
 ### Setup and Usage
 
--Clone the repository:
-Copygit clone https://github.com/your-username/hand-gesture-recognition.git
+- Clone the repository:
+  Copygit clone https://github.com/your-username/hand-gesture-recognition.git
 
--Install required dependencies:
-Copypip install -r requirements.txt
+- Install required dependencies:
+  Copypip install -r requirements.txt
 
--Run the Jupyter notebooks in the notebooks/ directory for data preprocessing and model training.
--Use the src/real_time_prediction.py script for real-time hand gesture recognition.
+- Run the Jupyter notebooks in the notebooks/ directory for data preprocessing and model training.
+- Use the src/real_time_prediction.py script for real-time hand gesture recognition.
 
 ## Future Improvements
 - Expand the dataset with more diverse hand gestures
