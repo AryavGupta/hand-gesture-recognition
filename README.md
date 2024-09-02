@@ -37,23 +37,6 @@ The primary objective of this project is to develop a machine learning model tha
 - Saved trained model using joblib library
 - Implemented real-time prediction system using cv2 for video capture
 
-### Project Structure
-hand-gesture-recognition/
-│
-├── notebooks/
-│   ├── data_preprocessing.ipynb
-│   └── model_training.ipynb
-│
-├── src/
-│   └── real_time_prediction.py
-│
-├── data/
-│   └── hand_gestures.csv
-│
-├── models/
-│   └── random_forest_model.joblib
-│
-└── README.md
 
 ### Setup and Usage
 
